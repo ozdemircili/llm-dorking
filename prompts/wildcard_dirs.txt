@@ -1,0 +1,4 @@
+Find open directories of media files.
+Query: ("index of /" | "parent directory") (mp3 | mp4 | flac | pdf)
+Exclude: -html -php -jsp -cf -shtml
+Return 10 freshest URLs + guess content type.

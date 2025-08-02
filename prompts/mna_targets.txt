@@ -1,0 +1,7 @@
+Find Spanish SMEs signalling distress:
+Query phrases:
+  - "concurso de acreedores"
+  - "busca comprador"
+  - "reestructuración financiera"
+Time filter: after 2024-01-01
+Output: Company | Context | Date | Link

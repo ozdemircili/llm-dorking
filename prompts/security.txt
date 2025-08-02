@@ -1,0 +1,6 @@
+Act as an OSINT leak hunter.
+Search pastebin.com and github.com for files containing:
+  - "AWS_SECRET_ACCESS_KEY"
+  - "DB_PASSWORD"
+  - "api_key"
+Return: source_link | exposed_snippet | risk_level

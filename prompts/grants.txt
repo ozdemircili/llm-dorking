@@ -1,0 +1,7 @@
+Act as an OSINT research bot.
+Search site:gva.es OR site:boe.es OR site:europa.eu
+for PDF or DOC files containing:
+  - "subvención autónomos"
+  - "startup ayuda"
+Published after 2023-01-01.
+Return table: title | publish_date | summary | download_link
